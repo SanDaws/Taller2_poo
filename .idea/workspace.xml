@@ -1,28 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="40a713cf-2f75-4ae5-87a5-a46c92f7541a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller2_poo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="40a713cf-2f75-4ae5-87a5-a46c92f7541a" name="Changes" comment="refurbish project">
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc10/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc11/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc12/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc13/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc14/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc15/Fleet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc16/StoreInventorySystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc17/OnlineStoreSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc18/SistemaControlHoras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc19/Pasajero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc20/CuentaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc8/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Classes/Exc9/Library.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "SanDaws"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/SanDaws/Taller2_poo.git",
+    "accountId": "5c7e1f28-2aa5-46ae-8a2f-f1f1e372eb05"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oi8O3GKhnHpeL3Tu0rFBdg4nz1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +60,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "E:/Riwi/Javas/Taller2_poo/src/Main.java"
   }
@@ -44,17 +74,49 @@
       <option name="presentableId" value="Default" />
       <updated>1731341001953</updated>
     </task>
+    <task id="LOCAL-00001" summary="project init">
+      <option name="closed" value="true" />
+      <created>1731343469084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731343469084</updated>
+    </task>
+    <task id="LOCAL-00002" summary="refurbish project">
+      <option name="closed" value="true" />
+      <created>1731368512509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731368512509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="206ad8d9-d57f-427f-b6ab-95b5612c80ef" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="206ad8d9-d57f-427f-b6ab-95b5612c80ef">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="project init" />
+    <MESSAGE value="refurbish project" />
+    <option name="LAST_COMMIT_MESSAGE" value="refurbish project" />
   </component>
 </project>
