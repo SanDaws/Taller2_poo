@@ -2,6 +2,7 @@ package Implementation.Exc8;
 
 import java.util.ArrayList;
 import java.util.List;
+import Class.Product;
 
 class Inventory {
     // List to hold products

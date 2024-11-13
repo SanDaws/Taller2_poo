@@ -1,5 +1,5 @@
 package Implementation.Exc17;
-
+import Class.Product;
 // Main class to demonstrate the online store system
 public class OnlineStoreSystem {
     public static void main(String[] args) {

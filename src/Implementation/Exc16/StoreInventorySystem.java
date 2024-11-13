@@ -1,4 +1,5 @@
 package Implementation.Exc16;
+import Class.Product;
 
 // Main class to demonstrate inventory management
 public class StoreInventorySystem {
